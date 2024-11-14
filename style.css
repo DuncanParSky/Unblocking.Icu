@@ -1,0 +1,18 @@
+#r4-widget-form {
+    width: 35%
+}
+/* Define the button style */
+.nice-button {
+    background-color: #3498db; /* Button color */
+    border: none; /* Remove border */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Adjust padding for size */
+    font-size: 16px; /* Adjust font size */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+/* Add a hover effect */
+.nice-button:hover {
+    background-color: #2980b9; /* Darker button color on hover */
+}
